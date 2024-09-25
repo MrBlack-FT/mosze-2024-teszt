@@ -30,5 +30,7 @@ int main()
     
     delete[] b;
     
+    std::cout << "Akkor se fogok apache netbabokban Javázni :)" << std::endl;
+
     return 0;
 }
