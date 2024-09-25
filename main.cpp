@@ -30,5 +30,7 @@ int main()
     
     delete[] b;
     
+    //Akkor se fogok apache netbabokban Javázni :)
+
     return 0;
 }
